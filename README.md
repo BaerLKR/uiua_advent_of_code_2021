@@ -6,4 +6,6 @@ the exercise files are **not** included
 
 Example
 
+Take the Lists, append them, add them and compare the ones that were moved in relation to another and then add the amout of ones (the bigger ones)
+
 [Pad](https://www.uiua.org/pad?src=aW4g4oaQICQgMTk5CiAgICAgJCAyMDAKICAgICAkIDIwOAogICAgICQgMjEwCiAgICAgJCAyMDAKICAgICAkIDIwNwogICAgICQgMjQwCiAgICAgJCAyNjkKICAgICAkIDI2MAogICAgICQgMjYzCnAg4oaQIOKKnOKWocKs4oiKLCJcbiIgaW4gIyByZW1vdmUgdGhlIGJyZWFrbGluZSBjaGFycwpwIOKGkCDiiLVwYXJzZeKKlHAgICAgICMgcGFyc2UgaXQgaW50byBhbiBhcnIgb2YgaW50CgpWZXJzY2gg4oaQIOKHjH7ihpgx4oeM4oa7MQoKQ29tcGFyZUxpc3Qg4oaQIOKNiVtWZXJzY2ggLiBWZXJzY2ggcCBwXQrih4zihpgy4oeMQ29tcGFyZUxpc3QK4oeM4oaYMeKHjOKNiVtWZXJzY2guIOKJoS8rQ29tcGFyZUxpc3RdCuKJoS88LgovKy4K)
