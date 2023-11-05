@@ -1,7 +1,6 @@
 in ← &fras "one.txt"
 
-p ← ⊜□¬∊,"\n" in # remove the breakline chars
-p ← ∵parse⊔p     # parse it into an arr of int
+p ← ∵parse⊔⊜□¬∊,"\n" in
 
 Versch ← ⇌~↘1⇌↻1
 

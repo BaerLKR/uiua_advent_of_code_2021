@@ -15,3 +15,10 @@ Take the Lists, append them, add them and compare the ones that were moved in re
 ### Part one
 
 [Pad](https://www.uiua.org/pad?src=aSDihpAgJCAwMDEwMAogICAgJCAxMTExMAogICAgJCAxMDExMAogICAgJCAxMDExMQogICAgJCAxMDEwMQogICAgJCAwMTExMQogICAgJCAwMDExMQogICAgJCAxMTEwMAogICAgJCAxMDAwMAogICAgJCAxMTAwMQogICAgJCAwMDAxMAogICAgJCAwMTAxMApwIOKGkCDiipzilqHCrOKIiiwiXG4iaSAjIHJlbW92ZSB0aGUgYnJlYWtsaW5lIGNoYXJzCnAg4oaQIOKNieKItXBhcnNl4oi14oqUcCAjIHBhcnNlIGludG8gYXJyYXkgb2YgYml0IGFycmF5cwpzIOKGkCDilrNwCj4gw7cy4oqi4oeMcyDiiaEvK3AK4o2Y4ouv4oeMLgrijZjii6_ih4zCrCwKw5cK)
+
+
+---
+
+Copyright (c) 2023 Lovis Rentsch. All Rights Reserved.
+
+Published under the EUPLv1.2
